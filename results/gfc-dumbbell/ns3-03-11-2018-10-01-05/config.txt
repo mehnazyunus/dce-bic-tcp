@@ -1,8 +1,0 @@
-useEcn 0
-queue_disc_type ns3::FifoQueueDisc
-stream  1
-stack  ns3
-transport_prot ns3::TcpBic
-dataSize 1446
-delAckCount 2
-stopTime 20
